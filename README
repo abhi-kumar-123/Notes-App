@@ -1,0 +1,84 @@
+# Notes Website
+
+## 📌 Project Overview
+
+The **Notes Website** is a MERN stack web application that allows users to create, update, edit, and delete notes efficiently. It provides a smooth and interactive interface for managing personal notes with full CRUD functionality.
+
+## ✨ Features
+
+* Add new notes
+* Edit existing notes
+* Delete notes
+* View all saved notes
+* Full CRUD operations
+* Responsive user interface
+
+## 🛠️ Technologies Used
+
+### Frontend
+
+* React JS
+* HTML
+* CSS
+* JavaScript
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Database
+
+* MongoDB
+ 
+### Install Frontend Dependencies
+
+```bash
+cd client
+npm install
+```
+
+### Install Backend Dependencies
+
+```bash
+cd server
+npm install
+```
+
+### Start Frontend
+
+```bash
+npm start
+```
+
+### Start Backend
+
+```bash
+npm run server
+```
+
+## 🚀 Usage
+
+* Create a new note
+* Edit note content
+* Delete unwanted notes
+* Manage all notes dynamically
+
+## 🔗 API Functionality
+
+* GET → Fetch notes
+* POST → Create note
+* PUT → Update note
+* DELETE → Remove note
+
+## 🎯 Future Improvements
+
+* User authentication
+* Search notes
+* Categorized notes
+* Dark mode
+* Cloud deployment
+
+## 👨‍💻 Author
+
+Developed by **Abhishek Kumar**
